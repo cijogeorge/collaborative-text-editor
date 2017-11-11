@@ -1,6 +1,6 @@
 ## A Real-time Collaborative Text Editor
 
-This was a project that I did in 2008 during my Bachelors. Below is the abstract of the work taken from the project report.
+This was a project that I did in 2008 during my Bachelors. It was developed in Perl. Below is the abstract of the work taken from the project report.
 
 ### Abstract
 
